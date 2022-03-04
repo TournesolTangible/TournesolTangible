@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Software Engineering, Web Design, Entrepreneurship.
 - 💞️ I’m looking to collaborate on small, fun projects!
 - 📫 How to reach me ...
-
-<!---
-TournesolTangible/TournesolTangible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-     Email:    derek.steeg@gmail.com
+-     Linkedin: https://www.linkedin.com/in/derek-steeg-6ab699229/
+-     Twitter:  https://twitter.com/TournesolTangib
