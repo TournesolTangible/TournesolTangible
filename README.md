@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TournesolTangible
 - 👀 I’m interested in HCI, Design, Art, Video Games!
-- 🌱 I’m currently learning Software Engineering, Web Design, Entrepreneurship.
+- 🌱 I’m currently learning Game Development, Web Design, Entrepreneurship.
 - 💞️ I’m looking to collaborate on small, fun projects!
 - 📫 How to reach me ...
 -     📨Email:    derek.steeg@gmail.com
 -     🔗Linkedin: https://www.linkedin.com/in/derek-steeg-6ab699229/
--     🕊️Twitter:  https://twitter.com/TournesolTangib
